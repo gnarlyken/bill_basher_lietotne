@@ -1,0 +1,12 @@
+{
+  "name": "bill_basher_lietotne",
+  "version": "1.0.0",
+  "description": "To be filled Or not to be?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
